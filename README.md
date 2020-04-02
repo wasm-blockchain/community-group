@@ -20,4 +20,22 @@ We focus on the components and the discussions that are useful for all WebAssemb
 The CG is a single team that has periodic synchronization events during which they discuss the above topics in pursuit of the above goals:
 * Making sure WebAssembly-enabled blockchains are working on common WebAssembly tools together;
 * Communicating the needs of the blockchain to other WebAssembly communities and organizations;
-* Driving and moderating the recurrent meetings.
+* Driving and moderating the meetings and the async communication.
+
+### Members of the core team
+
+* [@nearmax](https://github.com/nearmax)
+* [@pepyakin](https://github.com/pepyakin)
+* [@ethanfrey](https://github.com/ethanfrey)
+
+### Other members
+
+* [@SyrusAkbary](https://github.com/SyrusAkbary)
+
+### Contact
+
+[Telegram group](https://t.me/wasmblockchain)
+
+### Calendar
+
+Please find the meetings calendar [here](https://calendar.google.com/calendar/embed?src=nearprotocol.com_h086ph0lrv5c6firfo40l5fb5k%40group.calendar.google.com&ctz=America%2FLos_Angeles)
